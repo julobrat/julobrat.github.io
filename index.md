@@ -2,9 +2,9 @@
 
 Dopiero studiuję, więc w repozytoriach nie mam za dużo kodu.
 
-### Te instrukcje sobie zostawię, bo mogą przydać sięw przyszłości
+### Za dużo to tu nie ma
 
 
-# Jeden
-## Dwa
-### I trzy hasztagi
+# Na serio
+## Nic ciekawego
+### Nie ma co szukać
